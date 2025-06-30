@@ -1,0 +1,1 @@
+Fork of the [Sorin oh-my-zsh theme](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/sorin.zsh-theme) that removes the right prompt (that contains the git indicators) and changes the chevron prompt
